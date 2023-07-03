@@ -1,0 +1,15 @@
+body{
+    display: block;
+    margin: 8px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.centre{
+    background: url("../img/gl.png");
+    background-size: 100%;
+    width:520px;
+    height:610px;
+    margin-top:5%;
+}
+.centre div{
+    padding-top: 40%;
+}
