@@ -16,7 +16,7 @@ Find your current location using the geolocation API
 2. Clone or download the repository
 3. Extract all the files and move it to the 'htdocs' folder of your XAMPP directory.
 4. Start the Apache in your XAMPP control panel.
-5. Open a new tab and type '127.0.0.1/GeoLocation-main' in the url of your browser
+5. Open a new tab and type '127.0.0.1/GeoLocation-main/geolocation.html' in the url of your browser
 6. now you can see a button "show my location".
 7. click on that button to see the latitute and longitude of your current location.
 
