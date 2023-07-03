@@ -4,7 +4,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 .centre{
-    background: url("../gl.png");
+    background: url("../GeoLocation-main/gl.png");
     background-size: 100%;
     width:520px;
     height:610px;
